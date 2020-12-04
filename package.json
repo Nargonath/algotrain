@@ -1,0 +1,27 @@
+{
+  "name": "algotrain",
+  "version": "1.0.0",
+  "description": "Gathering all attempts at solving algorithm problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -l src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nargonath/algotrain.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "Nargonath <jonas.pauthier@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nargonath/algotrain/issues"
+  },
+  "homepage": "https://github.com/Nargonath/algotrain#readme",
+  "devDependencies": {
+    "@hapi/code": "^8.0.2",
+    "@hapi/lab": "^24.1.0",
+    "ngt-scripts": "^4.1.1"
+  }
+}
