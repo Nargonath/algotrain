@@ -22,6 +22,7 @@
   "devDependencies": {
     "@hapi/code": "^8.0.2",
     "@hapi/lab": "^24.1.0",
+    "jsdom": "^16.4.0",
     "ngt-scripts": "^4.1.1"
   }
 }
